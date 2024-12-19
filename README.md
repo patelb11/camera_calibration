@@ -12,7 +12,7 @@ In this calibration process, we:
 - Enabled accurate mapping between 3D points and 2D projections, essential for applications like 3D reconstruction and AR.
 
 ## 🛠️ Setup  
-1. Capture several images of a checkerboard pattern under different orientations and store them in the repository called **/Dataset1** which will be in same repository as the hw8.py file.  
+1. Capture several images of a checkerboard pattern under different orientations and store them in the directory called **/Dataset1** which will be in same directory as the hw8.py file.  
 3. Run the python file to compute intrinsic, extrinsic parameters, and create 3D reconstrcution.
 
 ## 🚀 Tech Stack  
