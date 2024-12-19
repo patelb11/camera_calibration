@@ -22,8 +22,8 @@ In this calibration process, we:
 ## 📷 Images  
 Below are examples of the results produced by this project:  
 
-### Checkerboard Detection  
-![Checkerboard Detection](checkerboard_detection.jpg)  
+### Corner Point Extraction  
+![Checkerboard Detection](corner_extraction.jpg)  
 
-### Distortion Correction Example  
+### Camera Pose 3D Reconstruction  
 ![Distortion Correction](distortion_correction.jpg)  
