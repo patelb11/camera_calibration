@@ -26,4 +26,4 @@ Below are examples of the results produced by this project:
 ![Checkerboard Detection](corner_extraction.jpg)  
 
 ### Camera Pose 3D Reconstruction  
-![Distortion Correction](distortion_correction.jpg)  
+![Distortion Correction](camera_poses_reconstruction.jpg)  
